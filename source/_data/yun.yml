@@ -81,7 +81,8 @@ social:
     color: orange
   - name: QQ 群
     # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
-    link: 182332107
+    # link: 182332107
+    link: https://shang.qq.com/wpa/qunwpa?idkey=218f7cb4b75ff3c0ec7b98d705ad3bf6add4c20d25a08272d12bdf80d9eed582
     icon: icon-qq-line
     color: "#12B7F5"
   - name: GitHub
@@ -117,3 +118,7 @@ head:
 
 bg_image:
   enable: false
+
+notice:
+  enable: true
+  content: 我们的征途是星辰大海！欢迎投稿！
