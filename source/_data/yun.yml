@@ -1,0 +1,119 @@
+favicon: /favicon.ico
+
+colors:
+  primary: "#7F8BFF"
+
+banner:
+  title: 幻星科幻协会
+
+avatar:
+  url: /logo.png
+
+reward_settings:
+  enable: false
+
+comment:
+  enable: true
+  tips:
+    - 若您无 GitHub 账号，可直接在下方匿名评论。
+    - 若您想及时得到回复提醒，建议跳转 GitHub Issues 评论。
+    - 若没有本文 Issue，您可以使用 Comment 模版新建。
+
+# Valine
+# You can get your appid and appkey from https://leancloud.cn
+# More info available at https://valine.js.org
+valine:
+  enable: true
+  appId: v6SY0igWP0SEhJT697CtfQq7-gzGzoHsz # your leancloud application appid
+  appKey: WayzRKEE9mb2YrhWpot2Veft # your leancloud application appkey
+  serverURLs:
+  # another choice: https://github.com/DesertsP/Valine-Admin
+  notify: true # mail notifier, See: https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
+  placeholder: 为美好的幻星献上祝福！ # comment box placeholder
+  avatar: # gravatar style
+  meta: nick,mail,link # custom comment header
+  pageSize: 10 # pagination size
+  visitor: false
+  visitor_index: false
+
+google_analytics:
+  enable: true
+  id: UA-121354150-13
+
+# SEO
+# https://ziyuan.baidu.com/linksubmit/index
+baidu_push: false
+
+# https://github.com/wzpan/hexo-generator-search
+local_search:
+  enable: true
+
+engine_search:
+  enable: false
+
+# Show Views / Visitors of the website / page with busuanzi.
+# Get more information on http://ibruce.info/2015/04/04/busuanzi
+busuanzi:
+  enable: true
+  site_uv: true
+  site_uv_icon: icon-user-line
+  site_pv: true
+  site_pv_icon: icon-eye-line
+  page_pv: true
+  page_pv_icon: icon-eye-line
+
+footer:
+  since: 2014
+
+menu:
+  custom:
+    title: 留言板
+    path: /about/#comment
+    icon: icon-clipboard-line
+
+social:
+  - name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: QQ 群
+    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+    link: 182332107
+    icon: icon-qq-line
+    color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/Fantasy-Star
+    icon: icon-github-line
+    color: "#181717"
+  - name: E-Mail
+    link: mailto:smuhxxh@163.com
+    icon: icon-mail-line
+    color: "#8E71C1"
+  - name: 微博
+    link: https://weibo.com/u/3784345967
+    icon: icon-weibo-line
+    color: "#E6162D"
+  - name: 微信公众号
+    link: https://fantasy-star.github.io/valhalla/qrcode/weixin.webp
+    icon: icon-wechat-2-line
+    color: "#1AAD19"
+
+pages:
+  - name: 英灵殿
+    url: https://fantasy-star.github.io/valhalla/
+    icon: icon-genderless-line
+    color: dodgerblue
+
+head:
+  css:
+    custom: /css/custom.css
+  js:
+    defer:
+      trianglify: https://cdnjs.cloudflare.com/ajax/libs/trianglify/2.0.0/trianglify.min.js
+      custom: /js/custom.js
+
+bg_image:
+  enable: false
