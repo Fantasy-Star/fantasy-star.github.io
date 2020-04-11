@@ -110,11 +110,8 @@ pages:
 
 head:
   css:
-    custom: /css/custom.css
   js:
     defer:
-      trianglify: https://cdnjs.cloudflare.com/ajax/libs/trianglify/2.0.0/trianglify.min.js
-      custom: /js/custom.js
 
 bg_image:
   enable: false
@@ -122,3 +119,6 @@ bg_image:
 notice:
   enable: true
   content: 我们的征途是星辰大海！欢迎投稿！
+
+trianglify:
+  enable: true
