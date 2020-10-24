@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://fantasy-star.github.io/2020/hello-fantasy-star/</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/2020/xiaobei-novel/</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/about/index.html</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/about/site.html</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-10-24</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://fantasy-star.github.io/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://fantasy-star.github.io/tags/%E5%B9%BB%E6%98%9F/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/tags/%E5%B0%8F%E8%AF%B4/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/tags/%E7%A7%91%E5%B9%BB/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://fantasy-star.github.io/categories/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://fantasy-star.github.io/categories/%E5%B0%8F%E8%AF%B4%E5%BE%81%E7%A8%BF/</loc>
+    <lastmod>2020-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
